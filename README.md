@@ -1,6 +1,6 @@
 # Docker Swarm and Spark example
 
-You can see details in 
+You can see details in https://medium.com/@aoc/running-spark-on-docker-swarm-777b87b5aa3#.b74932l0u
 
 Running this will create some AWS instances so make sure you understand what the code is
 doing and what costs will it incur. Run at your own risk.
